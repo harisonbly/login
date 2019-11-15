@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile https://harisonbly.github.io/login//protected/.htpasswd  
-require valid-user
